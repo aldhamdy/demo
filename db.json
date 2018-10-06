@@ -1,14 +1,30 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "mapCode": 1001,
+    "mapName": "صلاح عبدالله الضمدي",
+    "mapCorpName": "ايكو تك",
+    "mapDate": "2018-01-09T15:03:00",
+    "mapStatus": 1
   }
-}
+  , {
+    "mapCode": 1002,
+    "mapName": "صلاح عبدالله الضمدي",
+    "mapCorpName": "ايكو تك",
+    "mapDate": "2018-01-09T15:03:00",
+    "mapStatus": 2
+  },
+   {
+    "mapCode": 1003,
+    "mapName": "صلاح عبدالله الضمدي",
+    "mapCorpName": "ايكو تك",
+    "mapDate": "2018-01-09T15:03:00",
+    "mapStatus": 1
+  },
+   {
+    "mapCode": 1004,
+    "mapName": "صلاح عبدالله الضمدي",
+    "mapCorpName": "ايكو تك",
+    "mapDate": "2018-01-09T15:03:00",
+    "mapStatus": 3
+  }
+]
